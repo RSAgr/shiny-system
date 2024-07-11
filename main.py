@@ -64,7 +64,7 @@ if query:
                 result = chain({"question": query}, return_only_outputs=True)
 
                 st.header("Answer")
-                personalized_answer = f"Hi there! 😊 Here's what I found for your question:\n\n{result['answer']}\n\nI hope this helps! If you have any more questions, feel free to ask. 😊"
+                personalized_answer = f"Hi there! 😊 Here's what I found for your question:\n\n{result['answer']}\n\nI hope this helps🤝! If you have any more questions, feel free to ask. 😊"
                 st.write(personalized_answer)
 
         except Exception as e:
