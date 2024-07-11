@@ -1,4 +1,4 @@
-# Your Own MBBS Bot 🩺
+# Your Own FAQ Bot 
 
 This Streamlit application allows customers to solve their queries by processing the FAQs from specified FAQ URL. The application uses OpenAI's language model to answer questions based on the provided data.
 Client will just need to update the URL list provided in main.py
