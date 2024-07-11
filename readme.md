@@ -19,6 +19,6 @@ The application uses FAISS (Facebook AI Similarity Search) to store and retrieve
 Ensure you have a valid OpenAI API key to use the language model.
 
 # License:
-This project is licensed under the MIT License. See the [LICENSE.txt](LICENSE.txt) file for more details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE.txt) file for more details.
 
 Contributions are welcome! Please open a pull request or issue on GitHub if you have any suggestions or improvements.
